@@ -15,8 +15,6 @@ A iniciativa surgiu durante a Semana Mundial de Conscientização sobre o Uso de
 
 Nosso propósito é transformar conhecimento científico em informação acessível, responsável e socialmente relevante.
 
----
-
 ## O Problema
 
 A resistência antimicrobiana ocorre quando microrganismos deixam de responder aos medicamentos utilizados para tratá-los.
@@ -30,8 +28,6 @@ Isso resulta em:
 
 A resistência não é apenas hospitalar. Ela envolve saúde humana, produção animal e meio ambiente, exigindo uma abordagem integrada baseada no conceito **One Health**.
 
----
-
 ## Nossa Missão
 
 Promover educação científica baseada em evidências para:
@@ -42,8 +38,6 @@ Promover educação científica baseada em evidências para:
 - Formar cidadãos críticos e conscientes  
 
 Educação que transforma informação em impacto.
-
----
 
 ## Atuação
 
@@ -61,29 +55,23 @@ O projeto atua em quatro pilares principais:
 - **Atualização Profissional**  
   Atividades formativas alinhadas às diretrizes nacionais e internacionais.
 
----
-
 ## Coordenação
 
-### Raquel Regina Bonelli  
+- Raquel Regina Bonelli  
 Professora Associada · UFRJ  
 Doutora pela Universität Bonn (Alemanha)  
 Atuação em microbiologia aplicada e resistência antimicrobiana.
 
-### Maria Isabel N. Di Azevedo  
+- Maria Isabel N. Di Azevedo  
 Professora Adjunta · UFRJ  
 Doutora pela UFF  
 Atuação em epidemiologia molecular e Saúde Única.
-
----
 
 ## Laboratório Responsável
 
 Laboratório de Investigação em Microbiologia Médica  
 Instituto de Microbiologia Paulo de Góes  
 Universidade Federal do Rio de Janeiro  
-
----
 
 ## Tecnologias do Site
 
@@ -93,8 +81,6 @@ Universidade Federal do Rio de Janeiro
 - Design responsivo  
 - Intersection Observer API  
 - Interface moderna com foco em experiência do usuário  
-
----
 
 ## Redes Sociais
 
